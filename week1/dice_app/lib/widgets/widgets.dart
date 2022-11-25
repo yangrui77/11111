@@ -1,0 +1,13 @@
+export 'information.dart';
+export '1000throws.dart';
+export 'dieColor.dart';
+export 'modeSwitch.dart';
+export 'numOfThrows.dart';
+export 'reset.dart';
+export 'twoDice.dart';
+export 'twoDice.dart';
+export 'undo.dart';
+export 'sumColor.dart';
+export 'navigation.dart';
+export 'detailedSum.dart';
+export 'detaileddie.dart';
